@@ -34,6 +34,7 @@ requirements:
     - pandas
     - rich
     - scipy
+    - sympy
     - tqdm
     - ultranest
 
