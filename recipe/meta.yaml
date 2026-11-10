@@ -1,4 +1,4 @@
-{% set version = "2.2.0" %}
+{% set version = "2.2.1" %}
 
 package:
   name: transitionlistener
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/T/TransitionListener/transitionlistener-{{ version }}.tar.gz
-  sha256: cb397968fde6aae14c7e1e9997f9aaac1b12107571ff60b8b1d0dc4bf55930d9
+  sha256: 194714ad091450e6236c1ba2e4bf8bae3f80e17ff9cfb152bd4a12ac1340fd85
 
 build:
   entry_points:
